@@ -2,7 +2,6 @@
 
 ## Project Info
 
-**URL**: [DeepSeekR1 Project]
 
 ## How Can I Edit This Code?
 
