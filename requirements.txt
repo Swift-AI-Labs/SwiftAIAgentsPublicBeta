@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+numpy
+librosa
+openai
+smtplib
+imaplib
+web3
+pytest
